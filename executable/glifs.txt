@@ -1,0 +1,11 @@
+grass.tga
+tree_bottom.tga
+tree_top.tga
+footman_right.tga
+footman_left.tga
+footman_up.tga
+footman_down_tga
+grunt_right.tga
+grunt_left.tga
+grunt_up.tga
+grunt_down.tga
